@@ -5,5 +5,5 @@ It also focuses on using Github as a tool when working in a team on a coding pro
 </p>
 
 ### The parts of the assignment:
-<li>Explaining how Git works by answering a set of questions</li>
-<li>Show in practice how to create repos and README-files in Github</li>
+- Explaining how Git works by answering a set of questions</li>
+- Show in practice how to create repos and README-files in Github</li>
