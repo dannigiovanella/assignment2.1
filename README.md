@@ -1,5 +1,9 @@
-# Assignment 2.1
-<p></p>
-##
-<li></li>
-<li></li>
+# Lab 3
+## Understanding Version control systems
+<p>The purpose of the assignment is to learn about Version control systems, how to use Git and why it is used.
+It also focuses on using Github as a tool when working in a team on a coding project.
+</p>
+
+### The parts of the assignment:
+<li>Explaining how Git works by answering a set of questions</li>
+<li>Show in practice how to create repos and README-files in Github</li>
